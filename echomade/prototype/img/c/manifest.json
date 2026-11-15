@@ -1,0 +1,156 @@
+{
+ "bracelet": [
+  {
+   "img": "img/c/bracelet-gold-1.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/bracelet-gold-2.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/bracelet-gold-3.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/bracelet-silver-1.webp",
+   "metal": "silver"
+  },
+  {
+   "img": "img/c/bracelet-silver-2.webp",
+   "metal": "silver"
+  },
+  {
+   "img": "img/c/bracelet-silver-3.webp",
+   "metal": "silver"
+  }
+ ],
+ "ring": [
+  {
+   "img": "img/c/ring-gold-1.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/ring-gold-2.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/ring-gold-3.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/ring-gold-4.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/ring-silver-1.webp",
+   "metal": "silver"
+  },
+  {
+   "img": "img/c/ring-silver-2.webp",
+   "metal": "silver"
+  },
+  {
+   "img": "img/c/ring-silver-3.webp",
+   "metal": "silver"
+  },
+  {
+   "img": "img/c/ring-glass-1.webp",
+   "metal": "glass"
+  }
+ ],
+ "earrings": [
+  {
+   "img": "img/c/earrings-gold-1.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/earrings-gold-2.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/earrings-gold-3.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/earrings-gold-4.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/earrings-silver-1.webp",
+   "metal": "silver"
+  },
+  {
+   "img": "img/c/earrings-silver-2.webp",
+   "metal": "silver"
+  },
+  {
+   "img": "img/c/earrings-silver-3.webp",
+   "metal": "silver"
+  },
+  {
+   "img": "img/c/earrings-glass-1.webp",
+   "metal": "glass"
+  }
+ ],
+ "necklace": [
+  {
+   "img": "img/c/necklace-gold-1.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/necklace-gold-2.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/necklace-gold-3.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/necklace-gold-4.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/necklace-silver-1.webp",
+   "metal": "silver"
+  },
+  {
+   "img": "img/c/necklace-silver-2.webp",
+   "metal": "silver"
+  }
+ ],
+ "pendant": [
+  {
+   "img": "img/c/pendant-gold-1.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/pendant-gold-2.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/pendant-gold-3.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/pendant-gold-4.webp",
+   "metal": "gold"
+  },
+  {
+   "img": "img/c/pendant-silver-1.webp",
+   "metal": "silver"
+  },
+  {
+   "img": "img/c/pendant-silver-2.webp",
+   "metal": "silver"
+  },
+  {
+   "img": "img/c/pendant-glass-1.webp",
+   "metal": "glass"
+  },
+  {
+   "img": "img/c/pendant-glass-2.webp",
+   "metal": "glass"
+  }
+ ]
+}
